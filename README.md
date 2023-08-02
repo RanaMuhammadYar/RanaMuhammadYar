@@ -3,7 +3,7 @@
 
 [![Google Certified](https://img.shields.io/badge/Google_Certified-ID_MNEDRAHEE-2979FF?logo=google&logoColor=ffffff)](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code)  [![Microsoft Ambassador](https://img.shields.io/badge/Microsoft-Ambassador-2962FF?logo=microsoft&logoColor=ffffff)](https://givemycertificate.com/verify/2011002321000380) [![Laravel Contributor](https://img.shields.io/badge/Laravel-Contributor-D500F9?logo=hack-the-box&logoColor=ffffff)](https://laravel.com/) [![PHP Contributor](https://img.shields.io/badge/PHP-Contributor-2962FF?logo=hack-the-box&logoColor=ffffff)](https://www.php.net/) [![Flutter Contributor](https://img.shields.io/badge/Flutter_chat_app_laravel_api-main-D500F9?logo=hack-the-box&logoColor=ffffff)](https://github.com/close2/csv/graphs/contributors)
 
-[![Nominate @RanaMuhammadYar as GitHub Star](https://img.shields.io/badge/Nominate_as_GitHub_Star-@RanaMuhammadYar-D50000?logo=GitHub&logoColor=white)](https://stars.github.com/nominate/) <a href="https://stars.github.com/nominate/"><img alt="GitHub Star" height="20px" src="images/star.png"></a>
+
 
 </div>
 
