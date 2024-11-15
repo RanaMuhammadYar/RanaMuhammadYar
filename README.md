@@ -15,7 +15,7 @@
 - ?? Learning **Data Science**
 - ?? Exploring `ML` in `AI`
 - ? Empowering eCommerce Businesses
-- ?? CS Graduate of [Virtual University of Pakistan](https://www.vu.edu.pk/)
+- ?? BSCS Graduate of [Virtual University of Pakistan](https://www.vu.edu.pk/)
 - ?? +923-0-0121-712-1
 
 
