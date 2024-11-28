@@ -23,7 +23,7 @@
 
 
 
-> **Careers Insititue IMS **<br>career institute faisalabad shoert courses <br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://career.edu.pk/) [![Made with PHP](https://img.shields.io/badge/Made_with-PHP-f0db4f?logo=PHP&logoColor=ffffff)](<[Laravel](https://www.php.net/)>)
+> **Careers Insititue IMS **<br>career institute faisalabad shoert courses  <br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://career.edu.pk/) [![Made with PHP](https://img.shields.io/badge/Made_with-PHP-f0db4f?logo=PHP&logoColor=ffffff)](<[Laravel](https://www.php.net/)>)
 [![Made with Laravel](https://img.shields.io/badge/Made_with-Laravel-f0db4f?logo=Laravel&logoColor=ffffff)](<[Laravel](https://www.php.net/)>)
 
 <!-- > **Comsian Network**<br>COMSATS Alumni Network for the students of COMSATS University Islamabad<br>[![Website](https://img.shields.io/badge/Web-App-FF3D00?logo=google-chrome&logoColor=ffffff)](https://comsian.net) [![Android](https://img.shields.io/badge/Google_Play-00C853?logo=google-play&logoColor=ffffff)](<[https://play.google.com/store/apps/details?id=dev.usama.assignmento](https://comsian.net)>) [![Made with PHP](https://img.shields.io/badge/Made_with-PHP-f0db4f?logo=PHP&logoColor=ffffff)](<[PHP](https://www.php.net/)>) -->
